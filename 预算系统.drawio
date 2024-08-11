@@ -5,7 +5,7 @@
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-179" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=#D4E1F5;strokeWidth=1;fillColor=none;fontFamily=Comic Sans MS;fontSize=9;swimlaneLine=0;dashed=1;collapsible=0;swimlaneFillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-94" y="-474" width="1165" height="1293" as="geometry" />
+          <mxGeometry x="-190" y="-625" width="1165" height="1293" as="geometry" />
         </mxCell>
         <mxCell id="Liw7ZN7XDZ7YaYjhqiWV-25" value="预算系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="14" y="384" width="83" height="41" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Liw7ZN7XDZ7YaYjhqiWV-29" value="预算审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#95C8FC;strokeColor=#6c8ebf;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
-          <mxGeometry x="213" y="384.0000000000001" width="83" height="41" as="geometry" />
+          <mxGeometry x="201" y="419.0000000000001" width="83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Liw7ZN7XDZ7YaYjhqiWV-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Liw7ZN7XDZ7YaYjhqiWV-25" target="Liw7ZN7XDZ7YaYjhqiWV-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Liw7ZN7XDZ7YaYjhqiWV-31" value="预算确认" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
-          <mxGeometry x="213" y="493.0000000000001" width="83" height="41" as="geometry" />
+        <mxCell id="Liw7ZN7XDZ7YaYjhqiWV-31" value="预算确认" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97E894;strokeColor=#82b366;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
+          <mxGeometry x="201" y="485.0000000000001" width="83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-1" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-2" source="Liw7ZN7XDZ7YaYjhqiWV-27" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-2" value="确认/反确认 版本号功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="380" y="163" width="145" height="33" as="geometry" />
+          <mxGeometry x="380" y="258" width="145" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-5" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-6" source="Liw7ZN7XDZ7YaYjhqiWV-27" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -44,8 +44,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xso-ELONYzY4eR0CgQhz-6" value="费用总表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="380" y="236" width="83" height="41" as="geometry" />
+        <mxCell id="Xso-ELONYzY4eR0CgQhz-6" value="费用总表&lt;div&gt;两个维度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="383" y="189" width="83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-17" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-18" source="Xso-ELONYzY4eR0CgQhz-6" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-18" value="自己部门填写" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="525" y="234" width="83" height="30" as="geometry" />
+          <mxGeometry x="534" y="183" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-19" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-20" source="Liw7ZN7XDZ7YaYjhqiWV-27" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-24" value="财务发起" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="377" y="351" width="83" height="41" as="geometry" />
+          <mxGeometry x="378" y="387" width="83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-25" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-26" source="Xso-ELONYzY4eR0CgQhz-20" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-40" value="别的部门填写" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="525" y="286" width="83" height="26" as="geometry" />
+          <mxGeometry x="534" y="226" width="83" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-41" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-42" source="Xso-ELONYzY4eR0CgQhz-40" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-42" value="统计在被填写部门上&lt;div&gt;员工薪酬&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="673" y="252" width="120" height="41" as="geometry" />
+          <mxGeometry x="677" y="172" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-45" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-46" source="Xso-ELONYzY4eR0CgQhz-40" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-46" value="统计在填写部门上&lt;div&gt;差旅费&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="673" y="305" width="120" height="34" as="geometry" />
+          <mxGeometry x="677" y="230" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-100" source="Xso-ELONYzY4eR0CgQhz-24" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-100" value="部门选择预算版本数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="500" y="351" width="83" height="41" as="geometry" />
+          <mxGeometry x="503" y="389" width="83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-102" source="Xso-ELONYzY4eR0CgQhz-100" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-102" value="财务经理审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="623" y="351" width="83" height="41" as="geometry" />
+          <mxGeometry x="632" y="389" width="83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-104" source="Xso-ELONYzY4eR0CgQhz-102" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-104" value="总经理审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="746" y="351" width="83" height="41" as="geometry" />
+          <mxGeometry x="748" y="387" width="83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="Xso-ELONYzY4eR0CgQhz-106" source="Liw7ZN7XDZ7YaYjhqiWV-31" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry relative="1" as="geometry">
@@ -175,6 +175,22 @@
         </mxCell>
         <mxCell id="Xso-ELONYzY4eR0CgQhz-106" value="确认预算表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry x="380" y="466.0000000000001" width="83" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Xso-ELONYzY4eR0CgQhz-110" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-111" source="Liw7ZN7XDZ7YaYjhqiWV-27" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4" y="-153" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xso-ELONYzY4eR0CgQhz-111" value="部门预算状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="380" y="308" width="83" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Xso-ELONYzY4eR0CgQhz-112" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" target="Xso-ELONYzY4eR0CgQhz-113" source="Xso-ELONYzY4eR0CgQhz-111" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169" y="-407" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xso-ELONYzY4eR0CgQhz-113" value="填写中/已确认&lt;div&gt;已提交/已确定&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="503" y="308" width="83" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
