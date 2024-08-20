@@ -1,9 +1,119 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="2jzhIxy3-VggTeiRnu46">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="840" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;预算审批提醒RocketMQ流程图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="840" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="210" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="210" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="210" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="230" width="210" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-11" value="预算服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-12" value="流程服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-13" value="消息组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-14" value="企业微信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="230" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-15" target="g5R9q-gd8ecZEy8Idzol-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-15" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#97D077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="135" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-16" target="g5R9q-gd8ecZEy8Idzol-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-16" value="财务发起年度预算&lt;div&gt;/部门、经理审批&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="125" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-18" target="g5R9q-gd8ecZEy8Idzol-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-18" value="发起审批" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="125" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-20" target="g5R9q-gd8ecZEy8Idzol-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-20" value="发起年度预算审批流程/" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="335" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-26" target="g5R9q-gd8ecZEy8Idzol-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-26" value="预算审批监听器" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="335" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-27" target="g5R9q-gd8ecZEy8Idzol-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-27" value="推送消息到MQ&lt;div&gt;生产者&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="335" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-30" target="g5R9q-gd8ecZEy8Idzol-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-30" value="组件推送方法" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="545" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-31" target="g5R9q-gd8ecZEy8Idzol-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-31" value="消费者监听topic消息&lt;div&gt;消费者&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="545" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-33" target="g5R9q-gd8ecZEy8Idzol-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="670" />
+              <mxPoint x="815" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-33" value="发送消息到企微" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="545" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-36" target="g5R9q-gd8ecZEy8Idzol-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-36" value="消息回调配置" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCFFE6;" vertex="1" parent="1">
+          <mxGeometry x="755" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5R9q-gd8ecZEy8Idzol-37" target="g5R9q-gd8ecZEy8Idzol-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-37" value="按照消息模板发送消息到对应用户" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCFFE6;" vertex="1" parent="1">
+          <mxGeometry x="755" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5R9q-gd8ecZEy8Idzol-41" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#EA6B66;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="765" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
