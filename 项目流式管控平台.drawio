@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="pSM0COIZiMat7ZpsX878">
-    <mxGraphModel dx="1590" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="568" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mobrb4mCzC6fIw80cVbl-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#004C99;strokeWidth=0.5;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="700" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="mobrb4mCzC6fIw80cVbl-1" value="&lt;b&gt;前端展示层&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="28" y="73" width="120" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="mobrb4mCzC6fIw80cVbl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007fff;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry x="163" y="73" width="200" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="mobrb4mCzC6fIw80cVbl-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mobrb4mCzC6fIw80cVbl-8" value="接入设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="224.5" y="79" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="mobrb4mCzC6fIw80cVbl-9" value="PC端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2273dd;strokeColor=none;gradientColor=none;glass=0;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="174" y="109" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mobrb4mCzC6fIw80cVbl-11" value="展示大屏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#245778;strokeColor=#245778;gradientColor=none;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="268.5" y="109" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mobrb4mCzC6fIw80cVbl-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;项目流式管控平台架构图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="249" y="30" width="256" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
