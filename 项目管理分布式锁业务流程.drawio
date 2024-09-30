@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="第 1 页" id="j2aq3opvmHzck9cFTJ19">
+    <mxGraphModel dx="1029" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="530" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J37NUGhFnpIfU3b7wJw7-2" target="J37NUGhFnpIfU3b7wJw7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-6" value="项目服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="50" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-10" value="项目流式管控平台 分布式锁业务流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="17" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J37NUGhFnpIfU3b7wJw7-11" target="J37NUGhFnpIfU3b7wJw7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;新建项目" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="273" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J37NUGhFnpIfU3b7wJw7-13" target="J37NUGhFnpIfU3b7wJw7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;新建任务&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="273" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J37NUGhFnpIfU3b7wJw7-15" target="J37NUGhFnpIfU3b7wJw7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;任务审批设置(&lt;span style=&quot;background-color: initial;&quot;&gt;有/无&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#df0707&quot;&gt;加分布式锁&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="273" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-18" value="项目服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J37NUGhFnpIfU3b7wJw7-20" target="J37NUGhFnpIfU3b7wJw7-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;更新审批流程" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J37NUGhFnpIfU3b7wJw7-21" target="J37NUGhFnpIfU3b7wJw7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-21" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="J37NUGhFnpIfU3b7wJw7-22" target="J37NUGhFnpIfU3b7wJw7-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-28" value="更新设置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J37NUGhFnpIfU3b7wJw7-29" target="J37NUGhFnpIfU3b7wJw7-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-29" value="&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;流程状态通知&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-31" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;流程状态回调&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-34" value="更新设置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="543" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-36" value="拿到锁" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-37" value="没拿到锁，阻塞，等待锁释放" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J37NUGhFnpIfU3b7wJw7-38" value="&lt;b&gt;分布式锁：在分布式环境中，多个服务实例，确保同一时间，只有一个服务能对共享资源进行操作&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="585" width="330" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
